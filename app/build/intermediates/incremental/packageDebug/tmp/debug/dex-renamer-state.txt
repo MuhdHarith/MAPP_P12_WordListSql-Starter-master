@@ -1,0 +1,4 @@
+#Sun Jan 12 21:12:12 SGT 2020
+base.0=C\:\\Users\\Muhammad Harith\\Desktop\\Schoolwork\\Y2 Sem2\\MAPP\\MAPP_P12_WordListSql-Starter-master\\MAPP_P12_WordListSql-Starter-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+MERGED from [com.android.support:design:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\6a0f0218c23d9b31ef44461c03c154fe\design-24.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\1a07abb06c08b768ccd9666325a063b6\recyclerview-v7-24.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\8c8c9f42ee957677ac16c39f02702e12\animated-vector-drawable-24.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\eeb02000f9d1741eeb20ed04fce2b911\support-vector-drawable-24.1.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\40281b680c30e7870dfe0fcf8b17a925\support-v4-24.1.1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:18:5-46
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:16:1-38:12
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:17:5-63
+application
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:20:5-36:19
+MERGED from [com.android.support:design:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\6a0f0218c23d9b31ef44461c03c154fe\design-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\6a0f0218c23d9b31ef44461c03c154fe\design-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\8c8c9f42ee957677ac16c39f02702e12\animated-vector-drawable-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\8c8c9f42ee957677ac16c39f02702e12\animated-vector-drawable-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\eeb02000f9d1741eeb20ed04fce2b911\support-vector-drawable-24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\eeb02000f9d1741eeb20ed04fce2b911\support-vector-drawable-24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\40281b680c30e7870dfe0fcf8b17a925\support-v4-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\40281b680c30e7870dfe0fcf8b17a925\support-v4-24.1.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.android.example.wordlistsql.MainActivity
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:name
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.android.example.wordlistsql.EditWordActivity
+ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml:34:19-51
+uses-sdk
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\6a0f0218c23d9b31ef44461c03c154fe\design-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\6a0f0218c23d9b31ef44461c03c154fe\design-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\1a07abb06c08b768ccd9666325a063b6\recyclerview-v7-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\1a07abb06c08b768ccd9666325a063b6\recyclerview-v7-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\8c8c9f42ee957677ac16c39f02702e12\animated-vector-drawable-24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\8c8c9f42ee957677ac16c39f02702e12\animated-vector-drawable-24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\eeb02000f9d1741eeb20ed04fce2b911\support-vector-drawable-24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\eeb02000f9d1741eeb20ed04fce2b911\support-vector-drawable-24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\40281b680c30e7870dfe0fcf8b17a925\support-v4-24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\40281b680c30e7870dfe0fcf8b17a925\support-v4-24.1.1\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Muhammad Harith\.gradle\caches\transforms-2\files-2.1\ef7d5df1df594408c6598254ad85e1a7\appcompat-v7-24.1.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Harith\Desktop\Schoolwork\Y2 Sem2\MAPP\MAPP_P12_WordListSql-Starter-master\MAPP_P12_WordListSql-Starter-master\app\src\main\AndroidManifest.xml
