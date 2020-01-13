@@ -16,6 +16,8 @@
 
 package com.android.example.wordlistsql;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -97,4 +99,29 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
+
+    void showDialog(){
+        AlertDialog.Builder myAlertBuilder = new AlertDialog.Builder(this);
+        // Set the dialog title.
+        myAlertBuilder.setTitle("DELETE ALERT");
+        // Set the dialog message.
+        myAlertBuilder.setMessage("Are you sure you want to delete this?");
+        // Add the buttons.
+        myAlertBuilder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+        public void onClick(DialogInterface dialog, int which) {
+            // User clicked OK button.
+                Toast.makeText(getApplicationContext(), "Pressed OK",
+                        Toast.LENGTH_SHORT).show();
+            }
+        });
+        myAlertBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+        public void onClick(DialogInterface dialog, int which) {
+            // User cancelled the dialog.
+            Toast.makeText(getApplicationContext(), "Pressed Cancel",
+                    Toast.LENGTH_SHORT).show();
+            }
+        });
+        myAlertBuilder.show();
+    }
+
 }

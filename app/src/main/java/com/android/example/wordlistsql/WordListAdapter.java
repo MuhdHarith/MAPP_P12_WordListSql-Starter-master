@@ -17,7 +17,9 @@
 package com.android.example.wordlistsql;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -83,12 +85,37 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.WordVi
         holder.delete_button.setOnClickListener(
                 new MyButtonOnClickListener(current.getId(), null) {
 
+                    void showDialog(){
+                        AlertDialog.Builder myAlertBuilder = new AlertDialog.Builder(mContext);
+                        // Set the dialog title.
+                        myAlertBuilder.setTitle("DELETE ALERT");
+                        // Set the dialog message.
+                        myAlertBuilder.setMessage("Are you sure you want to delete this?");
+                        // Add the buttons.
+                        myAlertBuilder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                // User clicked OK button.
+                                Toast.makeText(mContext.getApplicationContext(), "Pressed OK",
+                                        Toast.LENGTH_SHORT).show();
+                                int deleted = mDB.delete(id);
+                                if (deleted >= 0) {
+                                    notifyItemRemoved(h.getAdapterPosition());
+                                }
+                            }
+                        });
+                        myAlertBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                // User cancelled the dialog.
+                                Toast.makeText(mContext.getApplicationContext(), "Pressed Cancel",
+                                        Toast.LENGTH_SHORT).show();
+                            }
+                        });
+                        myAlertBuilder.show();
+                    }
+
             @Override
             public void onClick(View v ) {
-                int deleted = mDB.delete(id);
-                if (deleted >= 0) {
-                    notifyItemRemoved(h.getAdapterPosition());
-                }
+                showDialog();
             }
         }
         );
@@ -122,6 +149,8 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.WordVi
         mContext = context;
         mDB = db;
     }
+
+
 
 }
 
